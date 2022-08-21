@@ -185,7 +185,7 @@ img {
 
 .home__img img {
   width: 230px;
-  animation: floaty 1.2s infinite alternate;
+  animation: floaty 1s infinite alternate;
 }
 
 .home__img {
@@ -199,7 +199,7 @@ img {
   margin: 0 auto;
   border-radius: 50%;
   filter: blur(7px);
-  animation: shadow 1.2s infinite alternate;
+  animation: shadow 1s infinite alternate;
   margin-top: 1rem;
 }
 
