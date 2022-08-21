@@ -175,7 +175,7 @@ img {
   border-radius: 1.2rem;
   transition: .4s;
   font-weight: 600;
-  border: #16D6B4 3px solid;
+  border: #16D6B4 2px solid;
 }
 
 .home__button:hover {
